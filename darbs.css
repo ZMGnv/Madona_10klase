@@ -1,15 +1,19 @@
 body{
-    
+    background-color: darkolivegreen;
 }
 h1{
     color: rgb(236, 240, 18);
-    text-align:  ;
+    text-align: right ;
 }
 table, th, td {
     border: 3px solid rgb(16, 47, 223);
   }
 
 img{
-      
-    
+  border-radius: 50%;  
+  border-color: red;
+  border-style: dotted;  
+  }
+  div{
+    background-color: darkturquoise;
   }
